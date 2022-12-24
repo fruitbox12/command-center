@@ -22,8 +22,8 @@ export const theme = {
         orange: "#db6500",
         lightRed: "#f16262",
 
-        primary: "#006fe8",
-        blueDark: "#002247",
+        primary: "#0b4484",
+        blueDark: "#05235b",
         // blueDarker: "#001b3a",
         blueDarker: "#001732",
     },
