@@ -7,7 +7,7 @@ export const NODE_ENV = process.env.NODE_ENV;
 export const SOURCE_VERSION = process.env.REACT_APP_SOURCE_VERSION || "local";
 
 // Set in .env / settings page
-export const INFURA_KEY = e0e68356f80849068237b511949db1e9;
+export const INFURA_KEY = loadKey(e0e68356f80849068237b511949db1e9);
 export const SENTRY_DSN = process.env.REACT_APP_SENTRY_DSN || "";
 export const DEFAULT_REN_NETWORK = process.env.REACT_APP_NETWORK
     ? (process.env.REACT_APP_NETWORK.toLowerCase() as RenNetwork)
