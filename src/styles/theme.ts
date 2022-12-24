@@ -12,8 +12,8 @@ const maxXl = minXxl - 1;
 export const theme = {
     colors: {
         offWhite: "#f8fafb",
-        darkGrey: "#3f3f41",
-        lightGrey: "#cccccc",
+        darkGrey: "#232355",
+        lightGrey: "#929292",
         midGrey: "#979797",
 
         // green: "#31cc9a",
